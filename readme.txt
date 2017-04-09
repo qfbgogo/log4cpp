@@ -1,2 +1,2 @@
 This is my first Git.
-Hello git.
+Git is a free software;
