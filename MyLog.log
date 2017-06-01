@@ -1,0 +1,12 @@
+2017-06-01 15:20:45,608 [ERROR] mycat:[ testMyLog.cc:main:19 ]error message
+2017-06-01 15:20:45,611 [WARN] mycat:[ testMyLog.cc:main:20 ]warn message
+2017-06-01 15:20:45,613 [INFO] mycat:[ testMyLog.cc:main:21 ]ifno message
+2017-06-01 15:20:45,614 [DEBUG] mycat:[ testMyLog.cc:main:22 ]debug message
+2017-06-01 15:23:22,549 [ERROR] mycat:[ testMyLog.cc:main:19 ]error message
+2017-06-01 15:23:22,551 [WARN] mycat:[ testMyLog.cc:main:20 ]warn message
+2017-06-01 15:23:22,553 [INFO] mycat:[ testMyLog.cc:main:21 ]ifno message
+2017-06-01 15:23:22,554 [DEBUG] mycat:[ testMyLog.cc:main:22 ]debug message
+2017-06-01 15:28:46,099 [ERROR] mycat:[ testMyLog.cc:main:19 ]error message
+2017-06-01 15:28:46,099 [WARN] mycat:[ testMyLog.cc:main:20 ]warn message
+2017-06-01 15:28:46,099 [INFO] mycat:[ testMyLog.cc:main:21 ]ifno message
+2017-06-01 15:28:46,099 [DEBUG] mycat:[ testMyLog.cc:main:22 ]debug message
